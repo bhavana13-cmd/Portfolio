@@ -61,12 +61,7 @@ section {
   padding: 40px;
   text-align: center;
 }
-section#about p{
-  padding: 2px;
-  margin-right: 100px;
-  margin-left: 150px;
-  text-align: left;
-}
+
 
 .card-container {
   display: flex;
