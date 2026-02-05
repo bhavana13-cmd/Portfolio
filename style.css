@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -40,6 +44,15 @@ header img {
   width: 150px;
   border-radius: 50%;
 }
+section {
+  height: 100vh;        /* 100% of screen height */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 
 section {
   padding: 40px;
